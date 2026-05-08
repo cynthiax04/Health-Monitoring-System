@@ -123,16 +123,10 @@ The AI chatbot provides:
 - Protected API routes
 - HTTPS-only in production
 
-## Contributing
-
-This is a v0-generated project. To modify:
-1. Use v0.app to make changes via AI
-2. Download and customize locally
-3. Deploy via Vercel
-
 ## License
 
-Created with v0 by Vercel
+This project is for educational and learning purposes.
+
 
 ## Support
 
